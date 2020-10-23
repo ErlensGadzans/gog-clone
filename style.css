@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap");
+
+body {
+  background-color: #d8d8d8;
+  font-family: "Rubik", sans-serif;
+}
+
+#myCarousel {
+  height: 400px;
+}
+
+.btn {
+  background-color: green !important;
+}
